@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caicai-la
 - 👀 Now it is 2022/11/1
 - 🌱 I’m currently learning html/css/js
-- 💞️ I’m is 🥬🐔
+- 💞️ I’m is a single girl~~
 - 📫 How to reach me: contact me
 
 <!---
